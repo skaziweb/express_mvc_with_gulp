@@ -1,0 +1,47 @@
+{
+  "name": "express_mvc",
+  "version": "1.0.0",
+  "description": "Express Model-View-Controller",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app",
+    "build": "set NODE_ENV=production",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skaziweb/express_mvc_with_gulp.git"
+  },
+  "keywords": [
+    "express",
+    "mvc"
+  ],
+  "author": "Alexey Kuz`min",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/skaziweb/express_mvc_with_gulp/issues"
+  },
+  "homepage": "https://github.com/skaziweb/express_mvc_with_gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.24.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "nodemon": "^1.18.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cluster": "^0.7.7",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "helmet": "^3.13.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0"
+  }
+}

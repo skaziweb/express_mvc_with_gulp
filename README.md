@@ -9,7 +9,6 @@
 $ git clone https://github.com/skaziweb/express_mvc.git ProjectFolderName
 $ cd .\ProjectFolderName\
 $ npm install
-$ gulp
 ```
 ## Start / Запуск
 ```sh

@@ -11,6 +11,10 @@ $ cd .\ProjectFolderName\
 $ npm install
 $ gulp
 ```
+## Start / Запуск
+```sh
+$ gulp
+```
 ## Application folder structure / Cтруктура папок приложения
     assets/         #app assets
         assets/css      #app compiled style

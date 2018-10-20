@@ -35,6 +35,10 @@ $ gulp
     README              #this file
 
 ##### MySQL is installed as the default database driver / В проекте используеться база данных MySQL
-
+## MySQL Error
+    1. ER_NOT_SUPPORTED_AUTH_MODE
+```sh
+$ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'password'
+```
 ## License 
 ##### [MIT license](https://opensource.org/licenses/MIT)

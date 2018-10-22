@@ -1,4 +1,4 @@
-# Small Node.js Express.js MVC application (Model View Controller) with Gulp
+# Node.js Express.js MVC application startup skeleton (Model View Controller) with Gulp
 
 ## Requirement / Необходимые компоненты
 ##### 1. [Node.JS](https://nodejs.org/en/)

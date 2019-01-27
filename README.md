@@ -6,7 +6,7 @@
 
 ## Installation / Установка
 ```sh
-$ git clone https://github.com/skaziweb/express_mvc.git ProjectFolderName
+$ git clone https://github.com/skaziweb/express_mvc_with_gulp.git ProjectFolderName
 $ cd .\ProjectFolderName\
 $ npm install
 ```
